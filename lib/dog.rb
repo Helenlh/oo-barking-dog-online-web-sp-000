@@ -9,6 +9,9 @@ class Dog
   end 
 end
 
+def bark 
+  puts "woof"
+
 
 
 
