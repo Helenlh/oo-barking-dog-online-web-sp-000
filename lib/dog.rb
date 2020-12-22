@@ -1,6 +1,6 @@
 class Dog 
   
-end
+end 
 
 
 
